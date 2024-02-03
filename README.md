@@ -1,3 +1,15 @@
+-------------------------------------------------------------------
+
+# Enhancements:
+1. We can add a fade-in and fade-out animation when the like button is clicked to create a smoother transition.
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
